@@ -6,10 +6,10 @@ Join Us [2023.02 ~ 2023.05]
 학교에서 프로젝트를 진행하기 위해 팀원을 구하는 것이 막막할 때가 있다. 특히 편입생, 복학생 같은 경우 학과 게시판 등 여러 곳을 돌아다니며 사람을 구하는 모습이 보편화되어 있는데, 이러한 어려움을 조금이나마 해결하기 위해 나온 프로젝트이다. 구인 뿐만 아니라 팀을 결성하면 여러 사람들이 입장하여 원활한 회의를 진행할 수 있는 메타버스적 환경도 도입하였다.  
 <br/>
 
-[시연영상](https://github.com/JongDeug/join-us/assets/99215801/affb1616-c7bf-41d3-8982-b9765f15847b)  
+[시연영상](https://github.com/JongDeug/join-us/assets/99215801/e2030206-854d-4206-8a23-0ffad0929b94)    
 <br/>
-<img width="300" src="https://github.com/JongDeug/join-us/assets/99215801/17dd3939-48d5-495f-8599-f7133f3df499">
-<img width="300" src="https://github.com/JongDeug/join-us/assets/99215801/45c40c33-027a-43bc-93af-466381b96135">  
+<img width="300" src="https://github.com/JongDeug/join-us/assets/99215801/9df1e09a-262a-4b65-bf71-a16b0146f279">
+<img width="300" src="https://github.com/JongDeug/join-us/assets/99215801/014be2b7-4596-4135-83ac-bffa6dbdf509">  
 <br/>
 
 ## ⚙ 기술 스택
