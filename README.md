@@ -66,7 +66,7 @@ Join Us [2023.02 ~ 2023.05]
 
 ## 👨‍👩‍👧‍👦 담당 파트
 
-프론트엔드 + 메타버스(WebSocket, WebRTC) 
+프론트엔드[Svelte] + 메타버스[Phaser3, Colyseus](WebSocket, WebRTC) 
 - [회원 관리 UCD-01]
 - [커뮤니티 관리 UCD-02]
 - [회의 관리(메타버스) UCD-03]
